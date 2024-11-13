@@ -1,7 +1,8 @@
-import { Button } from "./_components/ui/button";
+//import { Button } from "./_components/ui/button";
+import LoginPage from "./login/page";
 
 const Home = () => {
-  return <Button>ok</Button>;
+  return <LoginPage />;
 };
 
 export default Home;
